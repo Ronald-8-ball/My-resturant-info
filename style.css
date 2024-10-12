@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background: #252525;
+    background: brown;
     font-family: "Baloo Tamma 2", cursive;
 }
 
@@ -27,5 +27,5 @@ body {
 
 
 .text-white {
-    color: white;
+    color: black;
 }
